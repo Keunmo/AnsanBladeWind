@@ -1,6 +1,5 @@
-# AnsanBladeWind
-
-##Simple consol todo program  
+# AnsanBladeWind  
+## Simple consol todo program  
 * Best for Linux environment  
 * Python3 Required  
 
